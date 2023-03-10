@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/keno/Scripts/python_datascience/Sync_get/.vscode'
+let g:netrw_dirhist_1='/Users/keno/Scripts/python_datascience/Sync_get'
+let g:netrw_dirhist_0='/Users/keno/Scripts/python_datascience/.ipynb_checkpoints'
+let g:netrw_dirhist_9='/Users/keno/Scripts/python_datascience'
+let g:netrw_dirhist_8='/Users/keno/dev/output/mk_fiber/7-damping/init_damp2'
+let g:netrw_dirhist_7='/Users/keno/cluster/output2/f1-mp_2D/0-test'
+let g:netrw_dirhist_6='/Users/keno/shell_script/general'
+let g:netrw_dirhist_5='/Users/KeigoEnomoto/Scripts/Public_FiberSunspension/output/mk_fiber'
+let g:netrw_dirhist_4='/Users/KeigoEnomoto/dev/output/mk_fiber/2-fix-single_2D/0f1-10_1600_40-40_2d'
+let g:netrw_dirhist_3='/Users/KeigoEnomoto/Scripts/python_datascience/Sync'
