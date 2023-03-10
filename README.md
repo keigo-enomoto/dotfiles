@@ -1,6 +1,6 @@
 # dotfiles
 
-include dotfiles 
+Include my dotfiles 
 
 ## Features 
 - chktex
